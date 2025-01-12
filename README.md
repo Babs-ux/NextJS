@@ -1,2 +1,2 @@
 # NextJS
-For Updates on Progress.
+For Updates on Progress regarding the Course.
